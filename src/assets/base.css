@@ -27,8 +27,6 @@
 
   --color-border: var(--color-gray-300);
   --color-border-hover: #9ca3af;
-
-  --section-gap: 160px;
 }
 
 /* Dark Theme */
@@ -45,8 +43,6 @@
 
   --color-border: #334155;
   --color-border-hover: #475569;
-
-  --section-gap: 160px;
 }
 
 /* Reset */
