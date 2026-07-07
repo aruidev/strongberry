@@ -2,9 +2,10 @@
 </script>
 
 <template>
-  <span>Strongberry</span>
+  <footer>
+    <span>Strongberry</span>
+  </footer>
 </template>
 
 <style scoped>
-  
 </style>

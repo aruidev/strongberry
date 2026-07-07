@@ -2,6 +2,5 @@
 </script>
 
 <template>
-  <main>
-  </main>
+  <div>Workout works</div>
 </template>

@@ -2,6 +2,5 @@
 </script>
 
 <template>
-  <main>
-  </main>
+  <div>Home works</div>
 </template>
